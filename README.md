@@ -3,7 +3,7 @@ This is an interactive Python quiz designed for 9th CBSE students to test their 
 
 How to Use
 
-Access the quiz at: https://dlmentor.github.io/9cbse-python-unit5/
+Access the quiz at:https://github.com/dlmentor/9class
 Answer each question by selecting an option and clicking NEXT.
 You must select an answer to proceed (an alert will remind you if you forget).
 At the end, view your results, download them as a PDF, or restart the quiz.
